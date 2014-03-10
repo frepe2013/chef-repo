@@ -69,7 +69,7 @@ chef-repo
 9.vagrant起動
 
 	 vagrant up
-	 vagrant ssh-config --host centos65 >> C:/Users/yoshikazu/.ssh/config
+	 vagrant ssh-config --host centos65 >> C:/Users/[UserName]/.ssh/config
 	 ssh ホスト名でアクセス
 
 10.knife solo init chef-repoを実行
